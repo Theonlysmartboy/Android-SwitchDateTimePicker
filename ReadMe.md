@@ -2,7 +2,7 @@
 
 # Android SwitchDateTime Picker
 
-<img src="https://raw.githubusercontent.com/Kunzisoft/Android-SwitchDateTimePicker/master/art/logo.png"> SwitchDateTime Picker is a library for select a *Date* object in dialog with a DatePicker (Calendar) and a TimePicker (Clock) in the same UI.
+<img src="https://raw.githubusercontent.com/Kunzisoft/Android-SwitchDateTimePicker/master/art/logo.png"> SwitchDateTime Picker is a library for selecting a *Date* object in dialog with a DatePicker (Calendar) and a TimePicker (Clock) in the same UI.
 
 <img src="https://raw.githubusercontent.com/Kunzisoft/Android-SwitchDateTimePicker/master/art/demo2.gif" width="500">
 <img src="https://raw.githubusercontent.com/Kunzisoft/Android-SwitchDateTimePicker/master/art/demo1.gif" width="320">
